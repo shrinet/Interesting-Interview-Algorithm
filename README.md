@@ -1,5 +1,7 @@
 # Interesting-Interview-Algorithm
-These algorithm I found interesting and worthy of repo
+These algorithms I found interesting and worthy of repo
 
 ## Encryption 
 ## sliding window malware
+## Short a string words based on their last letters
+
