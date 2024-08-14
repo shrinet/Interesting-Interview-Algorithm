@@ -7,3 +7,6 @@ These algorithms I found interesting and worthy of repo
 
 ## Robot transverse in grid
 ## Longest subsequence with alternating 0 and 1s
+
+# SQL
+## Explain the differ
